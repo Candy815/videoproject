@@ -1,0 +1,10 @@
+https://dl.fbaipublicfiles.com/video_similarity_challenge/46ef53734a4/dataset_test/queries_metadata.csv
+https://dl.fbaipublicfiles.com/video_similarity_challenge/46ef53734a4/dataset_test/test_ground_truth.csv
+https://dl.fbaipublicfiles.com/video_similarity_challenge/46ef53734a4/dataset_test/queries/Q300001.mp4
+https://dl.fbaipublicfiles.com/video_similarity_challenge/46ef53734a4/dataset_test/queries/Q300002.mp4
+https://dl.fbaipublicfiles.com/video_similarity_challenge/46ef53734a4/dataset_test/queries/Q300003.mp4
+https://dl.fbaipublicfiles.com/video_similarity_challenge/46ef53734a4/dataset_test/queries/Q300004.mp4
+https://dl.fbaipublicfiles.com/video_similarity_challenge/46ef53734a4/dataset_test/queries/Q300005.mp4
+https://dl.fbaipublicfiles.com/video_similarity_challenge/46ef53734a4/dataset_test/queries/Q300006.mp4
+https://dl.fbaipublicfiles.com/video_similarity_challenge/46ef53734a4/dataset_test/queries/Q300007.mp4
+https://dl.fbaipublicfiles.com/video_similarity_challenge/46ef53734a4/dataset_test/queries/Q300008.mp4
